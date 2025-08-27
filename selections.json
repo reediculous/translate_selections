@@ -1,0 +1,740 @@
+[
+    {
+        "file_name": "cgl/AlN_ccurrent_50Ohm_1600V_30kHz_000104.npz",
+        "batch_size": 300,
+        "overlap_size": 50,
+        "selections": [
+            {
+                "start_index": 5770,
+                "end_index": 5806
+            },
+            {
+                "start_index": 5824,
+                "end_index": 5842
+            },
+            {
+                "start_index": 5843,
+                "end_index": 5889
+            },
+            {
+                "start_index": 7784,
+                "end_index": 7815
+            },
+            {
+                "start_index": 7820,
+                "end_index": 7848
+            },
+            {
+                "start_index": 7849,
+                "end_index": 7902
+            },
+            {
+                "start_index": 9800,
+                "end_index": 9865
+            },
+            {
+                "start_index": 11907,
+                "end_index": 11963
+            },
+            {
+                "start_index": 11964,
+                "end_index": 12031
+            },
+            {
+                "start_index": 14595,
+                "end_index": 14715
+            },
+            {
+                "start_index": 18614,
+                "end_index": 18745
+            },
+            {
+                "start_index": 38423,
+                "end_index": 38449
+            },
+            {
+                "start_index": 38456,
+                "end_index": 38500
+            },
+            {
+                "start_index": 40230,
+                "end_index": 40254
+            },
+            {
+                "start_index": 40255,
+                "end_index": 40268
+            },
+            {
+                "start_index": 40271,
+                "end_index": 40280
+            },
+            {
+                "start_index": 40280,
+                "end_index": 40293
+            },
+            {
+                "start_index": 40306,
+                "end_index": 40324
+            },
+            {
+                "start_index": 40323,
+                "end_index": 40341
+            },
+            {
+                "start_index": 40373,
+                "end_index": 40394
+            },
+            {
+                "start_index": 42742,
+                "end_index": 42775
+            },
+            {
+                "start_index": 43318,
+                "end_index": 43414
+            },
+            {
+                "start_index": 44917,
+                "end_index": 44935
+            },
+            {
+                "start_index": 44937,
+                "end_index": 45006
+            },
+            {
+                "start_index": 45327,
+                "end_index": 45448
+            },
+            {
+                "start_index": 46204,
+                "end_index": 46264
+            },
+            {
+                "start_index": 46866,
+                "end_index": 46909
+            },
+            {
+                "start_index": 47294,
+                "end_index": 47381
+            },
+            {
+                "start_index": 48029,
+                "end_index": 48084
+            },
+            {
+                "start_index": 48205,
+                "end_index": 48317
+            },
+            {
+                "start_index": 49984,
+                "end_index": 50069
+            },
+            {
+                "start_index": 50850,
+                "end_index": 50913
+            },
+            {
+                "start_index": 52842,
+                "end_index": 52922
+            },
+            {
+                "start_index": 74684,
+                "end_index": 74695
+            },
+            {
+                "start_index": 74697,
+                "end_index": 74718
+            },
+            {
+                "start_index": 74719,
+                "end_index": 74748
+            },
+            {
+                "start_index": 77912,
+                "end_index": 77933
+            },
+            {
+                "start_index": 78225,
+                "end_index": 78269
+            },
+            {
+                "start_index": 78275,
+                "end_index": 78330
+            },
+            {
+                "start_index": 80844,
+                "end_index": 80916
+            },
+            {
+                "start_index": 85377,
+                "end_index": 85453
+            },
+            {
+                "start_index": 106480,
+                "end_index": 106503
+            },
+            {
+                "start_index": 106504,
+                "end_index": 106542
+            },
+            {
+                "start_index": 106937,
+                "end_index": 106965
+            },
+            {
+                "start_index": 109001,
+                "end_index": 109029
+            },
+            {
+                "start_index": 109035,
+                "end_index": 109048
+            },
+            {
+                "start_index": 109051,
+                "end_index": 109075
+            },
+            {
+                "start_index": 110598,
+                "end_index": 110630
+            },
+            {
+                "start_index": 110635,
+                "end_index": 110670
+            },
+            {
+                "start_index": 110672,
+                "end_index": 110740
+            },
+            {
+                "start_index": 111870,
+                "end_index": 111948
+            },
+            {
+                "start_index": 111871,
+                "end_index": 111976
+            },
+            {
+                "start_index": 113781,
+                "end_index": 113844
+            },
+            {
+                "start_index": 113960,
+                "end_index": 113991
+            },
+            {
+                "start_index": 113960,
+                "end_index": 113991
+            },
+            {
+                "start_index": 115213,
+                "end_index": 115265
+            },
+            {
+                "start_index": 115748,
+                "end_index": 115815
+            },
+            {
+                "start_index": 116008,
+                "end_index": 116013
+            },
+            {
+                "start_index": 116774,
+                "end_index": 116805
+            },
+            {
+                "start_index": 117323,
+                "end_index": 117395
+            },
+            {
+                "start_index": 142627,
+                "end_index": 142647
+            },
+            {
+                "start_index": 142647,
+                "end_index": 142674
+            },
+            {
+                "start_index": 144629,
+                "end_index": 144657
+            },
+            {
+                "start_index": 144661,
+                "end_index": 144693
+            },
+            {
+                "start_index": 146586,
+                "end_index": 146650
+            },
+            {
+                "start_index": 147201,
+                "end_index": 147230
+            },
+            {
+                "start_index": 148401,
+                "end_index": 148546
+            },
+            {
+                "start_index": 149525,
+                "end_index": 149635
+            },
+            {
+                "start_index": 157452,
+                "end_index": 157578
+            },
+            {
+                "start_index": 172213,
+                "end_index": 172232
+            },
+            {
+                "start_index": 173626,
+                "end_index": 173640
+            },
+            {
+                "start_index": 173654,
+                "end_index": 173675
+            },
+            {
+                "start_index": 173713,
+                "end_index": 173735
+            },
+            {
+                "start_index": 175841,
+                "end_index": 175873
+            },
+            {
+                "start_index": 175877,
+                "end_index": 175898
+            },
+            {
+                "start_index": 175912,
+                "end_index": 175925
+            },
+            {
+                "start_index": 175928,
+                "end_index": 175953
+            },
+            {
+                "start_index": 177421,
+                "end_index": 177441
+            },
+            {
+                "start_index": 177718,
+                "end_index": 177760
+            },
+            {
+                "start_index": 178344,
+                "end_index": 178370
+            },
+            {
+                "start_index": 178372,
+                "end_index": 178418
+            },
+            {
+                "start_index": 178427,
+                "end_index": 178491
+            },
+            {
+                "start_index": 179570,
+                "end_index": 179615
+            },
+            {
+                "start_index": 180253,
+                "end_index": 180313
+            },
+            {
+                "start_index": 181648,
+                "end_index": 181691
+            },
+            {
+                "start_index": 181991,
+                "end_index": 182058
+            },
+            {
+                "start_index": 182115,
+                "end_index": 182196
+            },
+            {
+                "start_index": 183300,
+                "end_index": 183345
+            },
+            {
+                "start_index": 183439,
+                "end_index": 183501
+            },
+            {
+                "start_index": 184353,
+                "end_index": 184441
+            },
+            {
+                "start_index": 187076,
+                "end_index": 187205
+            },
+            {
+                "start_index": 187660,
+                "end_index": 187782
+            }
+        ]
+    },
+    {
+        "file_name": "cgl/AlN_ccurrent_50Ohm_1600V_30kHz_000105.npz",
+        "batch_size": 300,
+        "overlap_size": 50,
+        "selections": [
+            {
+                "start_index": 7275,
+                "end_index": 7324
+            },
+            {
+                "start_index": 7330,
+                "end_index": 7369
+            },
+            {
+                "start_index": 8286,
+                "end_index": 8334
+            },
+            {
+                "start_index": 11027,
+                "end_index": 11045
+            },
+            {
+                "start_index": 11045,
+                "end_index": 11072
+            },
+            {
+                "start_index": 11072,
+                "end_index": 11094
+            },
+            {
+                "start_index": 14645,
+                "end_index": 14735
+            },
+            {
+                "start_index": 38992,
+                "end_index": 39018
+            },
+            {
+                "start_index": 39018,
+                "end_index": 39044
+            },
+            {
+                "start_index": 39047,
+                "end_index": 39067
+            },
+            {
+                "start_index": 39070,
+                "end_index": 39083
+            },
+            {
+                "start_index": 39084,
+                "end_index": 39098
+            },
+            {
+                "start_index": 41034,
+                "end_index": 41068
+            },
+            {
+                "start_index": 41101,
+                "end_index": 41131
+            },
+            {
+                "start_index": 42059,
+                "end_index": 42160
+            },
+            {
+                "start_index": 42161,
+                "end_index": 42243
+            },
+            {
+                "start_index": 43806,
+                "end_index": 43880
+            },
+            {
+                "start_index": 43887,
+                "end_index": 43960
+            },
+            {
+                "start_index": 44374,
+                "end_index": 44447
+            },
+            {
+                "start_index": 44626,
+                "end_index": 44742
+            },
+            {
+                "start_index": 45585,
+                "end_index": 45647
+            },
+            {
+                "start_index": 46244,
+                "end_index": 46372
+            },
+            {
+                "start_index": 46462,
+                "end_index": 46540
+            },
+            {
+                "start_index": 48704,
+                "end_index": 48794
+            },
+            {
+                "start_index": 48798,
+                "end_index": 48906
+            },
+            {
+                "start_index": 52042,
+                "end_index": 52247
+            },
+            {
+                "start_index": 74381,
+                "end_index": 74432
+            },
+            {
+                "start_index": 74433,
+                "end_index": 74459
+            },
+            {
+                "start_index": 76784,
+                "end_index": 76838
+            },
+            {
+                "start_index": 76847,
+                "end_index": 76880
+            },
+            {
+                "start_index": 76882,
+                "end_index": 76975
+            },
+            {
+                "start_index": 79331,
+                "end_index": 79359
+            },
+            {
+                "start_index": 79360,
+                "end_index": 79374
+            },
+            {
+                "start_index": 79375,
+                "end_index": 79458
+            },
+            {
+                "start_index": 79633,
+                "end_index": 79655
+            },
+            {
+                "start_index": 79787,
+                "end_index": 79813
+            },
+            {
+                "start_index": 80957,
+                "end_index": 80980
+            },
+            {
+                "start_index": 81141,
+                "end_index": 81255
+            },
+            {
+                "start_index": 84165,
+                "end_index": 84320
+            },
+            {
+                "start_index": 105286,
+                "end_index": 105306
+            },
+            {
+                "start_index": 105317,
+                "end_index": 105348
+            },
+            {
+                "start_index": 107849,
+                "end_index": 107862
+            },
+            {
+                "start_index": 107863,
+                "end_index": 107886
+            },
+            {
+                "start_index": 107898,
+                "end_index": 107919
+            },
+            {
+                "start_index": 108422,
+                "end_index": 108446
+            },
+            {
+                "start_index": 108446,
+                "end_index": 108527
+            },
+            {
+                "start_index": 109186,
+                "end_index": 109207
+            },
+            {
+                "start_index": 110043,
+                "end_index": 110078
+            },
+            {
+                "start_index": 111940,
+                "end_index": 112054
+            },
+            {
+                "start_index": 112642,
+                "end_index": 112698
+            },
+            {
+                "start_index": 112699,
+                "end_index": 112745
+            },
+            {
+                "start_index": 112977,
+                "end_index": 113044
+            },
+            {
+                "start_index": 113045,
+                "end_index": 113146
+            },
+            {
+                "start_index": 115296,
+                "end_index": 115346
+            },
+            {
+                "start_index": 115399,
+                "end_index": 115530
+            },
+            {
+                "start_index": 116653,
+                "end_index": 116788
+            },
+            {
+                "start_index": 120489,
+                "end_index": 120641
+            },
+            {
+                "start_index": 120725,
+                "end_index": 120829
+            },
+            {
+                "start_index": 142500,
+                "end_index": 142517
+            },
+            {
+                "start_index": 142522,
+                "end_index": 142580
+            },
+            {
+                "start_index": 145618,
+                "end_index": 145652
+            },
+            {
+                "start_index": 145737,
+                "end_index": 145763
+            },
+            {
+                "start_index": 145763,
+                "end_index": 145829
+            },
+            {
+                "start_index": 148056,
+                "end_index": 148140
+            },
+            {
+                "start_index": 148753,
+                "end_index": 148784
+            },
+            {
+                "start_index": 174075,
+                "end_index": 174099
+            },
+            {
+                "start_index": 174102,
+                "end_index": 174131
+            },
+            {
+                "start_index": 175787,
+                "end_index": 175801
+            },
+            {
+                "start_index": 175802,
+                "end_index": 175817
+            },
+            {
+                "start_index": 175820,
+                "end_index": 175846
+            },
+            {
+                "start_index": 175842,
+                "end_index": 175858
+            },
+            {
+                "start_index": 175859,
+                "end_index": 175879
+            },
+            {
+                "start_index": 176146,
+                "end_index": 176180
+            },
+            {
+                "start_index": 178020,
+                "end_index": 178131
+            },
+            {
+                "start_index": 178881,
+                "end_index": 178908
+            },
+            {
+                "start_index": 178910,
+                "end_index": 178928
+            },
+            {
+                "start_index": 180327,
+                "end_index": 180389
+            },
+            {
+                "start_index": 180394,
+                "end_index": 180466
+            },
+            {
+                "start_index": 181077,
+                "end_index": 181137
+            },
+            {
+                "start_index": 181137,
+                "end_index": 181188
+            },
+            {
+                "start_index": 183505,
+                "end_index": 183537
+            },
+            {
+                "start_index": 183637,
+                "end_index": 183733
+            },
+            {
+                "start_index": 184026,
+                "end_index": 184086
+            },
+            {
+                "start_index": 184121,
+                "end_index": 184206
+            },
+            {
+                "start_index": 184487,
+                "end_index": 184509
+            },
+            {
+                "start_index": 185933,
+                "end_index": 186048
+            },
+            {
+                "start_index": 187175,
+                "end_index": 187247
+            },
+            {
+                "start_index": 188237,
+                "end_index": 188449
+            },
+            {
+                "start_index": 188587,
+                "end_index": 188679
+            }
+        ]
+    }
+]
